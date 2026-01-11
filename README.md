@@ -1,5 +1,7 @@
 # teenylilqueue
 
+**Pre-production:** this project is under active development and not ready for production use.
+
 A tiny, self-hosted merge queue for GitHub repos. Runs on Vercel.
 
 ## Why?
